@@ -12,7 +12,7 @@
 
 <h2> :man_technologist: About Me : </h2>
 
-- 🔭 I’m fullstack Software Engineer and can contribute to frontend and backend...
+- 🔭 I’m fullstack Software Engineer and can contribute to frontend and backend.
 - 🤔 I love learning new languages and technologies
 - 🤣 I like stupid jokes
 
