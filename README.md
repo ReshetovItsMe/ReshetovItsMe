@@ -54,11 +54,6 @@
 </div>
 <div id="stats" align="center">
   <div>
-    <p>GitHub stats:</p>
-    <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReshetovItsMe&theme=github" alt="GitHub stats"/></div>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReshetovItsMe&layout=compact" alt="GitHub stats"/></div>
-   </div>
-  <div>
     <p>LeetCode stats:</p>
     <img src="https://leetcode-stats-six.vercel.app/api?username=ReshetovItsMe" alt="LeetCode stats"/>
   </div>
