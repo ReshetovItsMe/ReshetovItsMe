@@ -12,7 +12,8 @@
 
 <h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
 
-🔭 I’m fullstack Software Engineer and can contribute to frontend and backend, but have extensive experience and focused more on the backend. 🤔 I love learning new languages and technologies.
+I'm a fullstack software engineer with a passion for learning new languages and technologies.   
+I can contribute to frontend and backend, but have extensive experience and focused more on the backend.
 
 <div>
     <h2>Experience:</h3>
