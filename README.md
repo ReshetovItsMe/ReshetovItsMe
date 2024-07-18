@@ -10,13 +10,9 @@
   </div>
 </div>
 
-<h2> :man_technologist: About Me : </h2>
+<h2> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: </h2>
 
-- 🔭 I’m fullstack Software Engineer and can contribute to frontend and backend.
-- 🤔 I love learning new languages and technologies
-- 🤣 I like stupid jokes
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
+🔭 I’m fullstack Software Engineer and can contribute to frontend and backend, but have extensive experience and focused more on the backend. 🤔 I love learning new languages and technologies.
 
 <div>
     <h2>Experience:</h3>
